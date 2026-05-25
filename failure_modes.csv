@@ -1,0 +1,4 @@
+﻿fmId,description,occurrence,detection,severity,rpn,rootCause,mitigationStrategy
+FM-001,Temperature Sensor Drift,4,3,8,96,Sensor Aging,Redundant Sensors
+FM-002,Connector Corrosion,5,4,7,140,Moisture Exposure,Sealed Connector
+FM-003,Overcurrent Event,3,2,10,60,Short Circuit,Current Limiting

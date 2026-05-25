@@ -1,0 +1,3 @@
+﻿motorId,name,type,nominalPowerW,peakPowerW,torqueNm,efficiency,maxRpm,coolingType,weightKg,supplier,mountingPosition
+MOT-001,Bosch Active Line Plus,Mid Drive,250,500,65,0.89,3200,Air,3.1,Bosch,Mid
+MOT-002,Cargo TorqueDrive,Mid Drive,750,1200,120,0.91,4000,Air,4.6,Bafang,Mid

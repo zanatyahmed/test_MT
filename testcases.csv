@@ -1,0 +1,4 @@
+﻿testId,name,method,status,automationLevel,testEnvironment,passCriteria,executedBy,lastExecutionDate,result
+TEST-001,Speed Cutoff Verification,Road Test,Passed,Semi-Automated,Outdoor Track,Motor disabled above 25 kmh,Validation Team,2026-01-10,Pass
+TEST-002,Battery Thermal Stress Test,Environmental Test,Passed,Automated,Climate Chamber,No thermal runaway at 60C,Safety Lab,2026-01-15,Pass
+TEST-003,Brake Response Validation,HIL,Running,Automated,HIL Bench,Response under 20 ms,Embedded Team,2026-01-17,Pending

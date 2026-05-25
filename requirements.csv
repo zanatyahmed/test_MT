@@ -1,3 +1,4 @@
-﻿reqId,title,type,priority
-REQ-001,Maximum Assisted Speed,Regulatory,High
-REQ-002,Minimum Range,Performance,High
+﻿reqId,title,description,type,priority,status,verificationMethod,source,safetyLevel,releaseVersion,owner,acceptanceCriteria,rationale,createdDate,lastModified
+REQ-001,Maximum Assisted Speed,Motor assistance shall stop above 25 kmh,Regulatory,High,Approved,Road Test,EN15194,ASIL-B,1.0,System Engineering,Speed cutoff verified,Legal compliance,2025-01-10,2025-02-14
+REQ-002,Minimum Vehicle Range,eBike shall achieve at least 120 km range,Performance,High,Approved,Road Test,Marketing,None,1.0,Vehicle Engineering,Range achieved under WLTP profile,Customer expectation,2025-01-15,2025-02-20
+REQ-003,Battery Thermal Protection,System shall disconnect charging during overtemperature,Safety,Critical,Approved,Environmental Test,IEC62133,ASIL-C,1.1,Safety Engineering,Protection verified at 60C,Prevent thermal runaway,2025-01-22,2025-03-01

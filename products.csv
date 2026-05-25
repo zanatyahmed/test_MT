@@ -1,0 +1,3 @@
+﻿productId,name,modelYear,category,targetMarket,maxSpeedKph,rangeKm,weightKg,batteryVoltage,motorPowerW,frameMaterial,suspensionType,brakeType,connectivityLevel,otaEnabled,gpsEnabled,launchDate,status,priceEUR,variantFamily
+EBIKE-001,Urban Commuter X1,2026,City eBike,EU,25,120,24.5,48,250,Aluminum,Front Suspension,Hydraulic Disc,Connected,true,true,2026-03-01,Development,3499,UrbanSeries
+EBIKE-002,Cargo Master C1,2026,Cargo eBike,EU,25,100,38.2,48,750,Aluminum,Rigid,Hydraulic Disc,Connected,true,true,2026-05-01,Prototype,5999,CargoSeries

@@ -1,0 +1,4 @@
+﻿dtcId,description,category,severity,serviceAction,resettable
+DTC-001,Motor Overtemperature,Powertrain,High,Inspect cooling,true
+DTC-002,Battery Communication Fault,Electrical,Critical,Check CAN wiring,true
+DTC-003,Torque Sensor Failure,Safety,Critical,Replace sensor,false

@@ -1,0 +1,3 @@
+﻿reqId,testId,relationshipType
+REQ-001,TEST-001,VERIFIED_BY
+REQ-003,TEST-002,VERIFIED_BY

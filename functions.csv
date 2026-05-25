@@ -1,0 +1,4 @@
+﻿functionId,name,category,criticality,description,trigger,inputSignal,outputSignal,responseTimeMs
+FUN-001,Assist Pedaling,Vehicle Control,Critical,Provides motor assistance,Torque Sensor,Torque Value,Motor Torque,20
+FUN-002,Battery Temperature Monitoring,Safety,Critical,Monitors battery thermal state,Temperature Sensor,Temperature,Protection Command,50
+FUN-003,Brake Detection,Safety,Critical,Detects braking activation,Brake Switch,Brake Signal,Motor Disable,10

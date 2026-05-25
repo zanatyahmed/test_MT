@@ -1,0 +1,3 @@
+﻿issueId,description,severity,reportedDate,market,mileageKm,status,rootCause,warrantyClaim
+ISS-001,Motor shutdown during hill climb,High,2026-03-12,EU,3200,Investigating,Controller Overheat,true
+ISS-002,Display reboot issue,Medium,2026-03-15,EU,1200,Open,Software Bug,true

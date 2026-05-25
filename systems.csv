@@ -1,3 +1,5 @@
-﻿systemId,name
-SYS-001,Battery System
-SYS-002,Powertrain
+﻿systemId,name,description,criticality,owner,status,safetyCritical,domain,version
+SYS-001,Battery System,Energy storage and power delivery,High,Electrical Team,Released,true,Electrical,1.2
+SYS-002,Powertrain,System responsible for propulsion,High,Vehicle Team,Released,true,Mechanical,2.1
+SYS-003,Connectivity System,Wireless communication services,Medium,Software Team,Development,false,Software,0.9
+SYS-004,Braking System,Vehicle braking and safety control,Critical,Safety Team,Released,true,Mechanical,1.7

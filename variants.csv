@@ -1,0 +1,4 @@
+﻿variantId,name,market,maxSpeedKph,motorPowerW,batteryCapacityWh,regulationPackage,connectivityPackage
+VAR-001,EU Standard,EU,25,250,500,EN15194,Connected
+VAR-002,US Speed,PNA,32,750,750,UL2849,Connected
+VAR-003,Cargo Heavy Duty,EU,25,750,1000,EN15194 Premium,Fleet

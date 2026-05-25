@@ -1,0 +1,3 @@
+﻿goalId,description,asil,owner,verificationMethod,status
+SG-001,Prevent uncontrolled motor acceleration,ASIL-D,HARA Team,Road Test,Approved
+SG-002,Prevent battery thermal runaway,ASIL-C,Electrical Safety Team,Environmental Test,Approved

@@ -1,0 +1,4 @@
+﻿processId,name,plant,cycleTimeMinutes,automationLevel,qualityGate,safetyCritical,energyConsumptionKwh
+PROC-001,Frame Welding,Plant Berlin,12,Fully Automated,true,true,4.5
+PROC-002,Battery Assembly,Plant Munich,18,Semi Automated,true,true,6.2
+PROC-003,PCB Soldering,Plant Stuttgart,7,Fully Automated,true,true,2.1

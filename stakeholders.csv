@@ -1,0 +1,4 @@
+﻿stakeholderId,name,role,organization,country,department,influenceLevel
+STK-001,Product Manager,Decision Maker,eBike Mobility GmbH,Germany,Product,High
+STK-002,Regulatory Authority,Compliance Authority,TUV,Germany,Compliance,Critical
+STK-003,Service Technician,Maintenance,eBike Service Center,Egypt,After Sales,Medium

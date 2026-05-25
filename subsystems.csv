@@ -1,0 +1,5 @@
+﻿subsystemId,systemId,name,type,safetyCritical,supplier,softwareDriven,diagnosticCapable,communicationProtocol
+SUB-001,SYS-001,Battery Management System,Electronic,true,Bosch,true,true,CAN
+SUB-002,SYS-001,Battery Pack,Electrical,true,LG,false,false,None
+SUB-003,SYS-002,Motor Controller,Electronic,true,Continental,true,true,CAN
+SUB-004,SYS-003,Bluetooth Module,Communication,false,Quectel,true,true,BLE

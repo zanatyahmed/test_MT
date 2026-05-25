@@ -1,0 +1,3 @@
+﻿crId,title,reason,priority,status,requestedBy,createdDate,targetRelease,affectedSystems
+CR-001,Increase Battery Capacity,Market Demand,High,Analysis,Product Management,2026-01-10,2.0,Battery System
+CR-002,Improve Brake Cooling,Field Failures,Critical,Approved,Safety Engineering,2026-01-15,2.1,Braking System

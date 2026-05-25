@@ -1,0 +1,3 @@
+﻿componentId,supplierId,relationshipType
+COMP-001,SUP-001,SUPPLIED_BY
+COMP-002,SUP-002,SUPPLIED_BY

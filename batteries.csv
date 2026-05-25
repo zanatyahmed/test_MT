@@ -1,0 +1,3 @@
+﻿batteryId,name,chemistry,voltage,capacityAh,energyWh,cycleLife,maxChargeCurrent,maxDischargeCurrent,ipRating,weightKg,supplier,cellFormat,coolingType
+BAT-001,UrbanPack500,NMC,48,10.4,500,1000,5,30,IP67,3.2,LG,21700,Passive Air
+BAT-002,CargoPack750,NMC,48,15.6,750,1200,7,45,IP67,4.8,Panasonic,21700,Passive Air

@@ -1,0 +1,4 @@
+﻿sensorId,name,type,measurement,rangeMin,rangeMax,accuracy,communicationProtocol,supplier,safetyCritical
+SNS-001,Torque Sensor,Torque,Torque Nm,0,120,0.5,CAN,TDK,true
+SNS-002,Wheel Speed Sensor,Speed,Wheel RPM,0,5000,1.0,Digital,Bosch,true
+SNS-003,Battery Temp Sensor,Temperature,Celsius,-40,120,0.2,I2C,Texas Instruments,true

@@ -1,0 +1,4 @@
+﻿taskId,name,intervalKm,intervalMonths,description,requiredSkill,estimatedDurationMin,specialToolRequired
+MNT-001,Brake Inspection,1000,6,Inspect brake pads and discs,Technician,30,false
+MNT-002,Battery Health Check,5000,12,Perform battery SOH analysis,Electrical Technician,45,true
+MNT-003,Firmware Update,0,3,Update ECU firmware,Software Technician,20,true

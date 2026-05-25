@@ -1,0 +1,4 @@
+﻿hazardId,description,severity,exposure,controllability,asil,status,mitigationRequired
+HAZ-001,Battery Thermal Runaway,High,Medium,Difficult,ASIL-C,Open,true
+HAZ-002,Unexpected Motor Activation,Critical,Medium,Difficult,ASIL-D,Mitigated,true
+HAZ-003,Brake Failure,Critical,Low,Difficult,ASIL-D,Open,true

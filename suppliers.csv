@@ -1,0 +1,4 @@
+﻿supplierId,name,country,qualityRating,approved,leadTimeDays,contactPerson,strategicSupplier,isoCertified,financialRisk
+SUP-001,LG Energy Solution,South Korea,A,true,45,Kim Lee,true,true,Low
+SUP-002,Bosch eBike Systems,Germany,A,true,30,Thomas Muller,true,true,Low
+SUP-003,Bafang,China,B,true,60,Li Wei,false,true,Medium

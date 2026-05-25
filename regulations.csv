@@ -1,0 +1,4 @@
+﻿regulationId,name,region,version,category,effectiveDate,mandatory,issuingAuthority
+REG-001,EN15194,EU,2017,Electric Bicycle,2017-01-01,true,CEN
+REG-002,IEC62133,Global,2017,Battery Safety,2017-02-01,true,IEC
+REG-003,UN38.3,Global,2023,Battery Transport,2023-01-01,true,UN

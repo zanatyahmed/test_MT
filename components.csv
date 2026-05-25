@@ -1,0 +1,4 @@
+﻿componentId,subsystemId,name,partNumber,supplier,material,weightKg,costEUR,lifecycleState,manufacturingPlant,countryOfOrigin,recyclable,safetyCritical,serialTracked,expectedLifetimeHours
+COMP-001,SUB-002,21700 Li-Ion Cell,LG-21700-50E,LG,NMC Lithium,0.068,4.5,Released,Plant-A,South Korea,true,true,true,2500
+COMP-002,SUB-003,Motor Inverter PCB,INV-X22,Continental,FR4,0.35,48.0,Prototype,Plant-B,Germany,false,true,true,10000
+COMP-003,SUB-004,BLE Antenna,BLE-ANT-09,Quectel,Copper,0.02,2.5,Released,Plant-C,China,true,false,false,12000

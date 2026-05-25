@@ -1,0 +1,4 @@
+﻿swId,name,language,version,repository,owner,os,targetHardware,safetyLevel,autosarCompatible,cybersecurityLevel
+SW-001,Motor Control Firmware,C,2.3.1,GitLab/MCURepo,Embedded Team,FreeRTOS,STM32,ASIL-B,false,High
+SW-002,eBike Mobile App,Kotlin,1.4.0,GitHub/eBikeApp,Mobile Team,Android,Mobile,None,false,Medium
+SW-003,Diagnostics Service,Python,0.9.2,GitHub/DiagService,Backend Team,Linux,Cloud,None,false,High

@@ -1,0 +1,4 @@
+﻿interfaceId,name,protocol,baudRate,securityLevel,encryption,wireless,latencyMs
+INT-001,CAN Vehicle Bus,CAN,500000,High,AES,false,5
+INT-002,Bluetooth LE,BLE,1000000,Medium,AES,true,20
+INT-003,UART Diagnostics,UART,115200,Low,None,false,2
