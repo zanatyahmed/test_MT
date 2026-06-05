@@ -2,3 +2,13 @@
 VAR-001,EU Standard,EU,25,250,500,EN15194,Connected
 VAR-002,US Speed,PNA,32,750,750,UL2849,Connected
 VAR-003,Cargo Heavy Duty,EU,25,750,1000,EN15194 Premium,Fleet
+VAR-004,EU Urban Lite,EU,25,250,400,EN15194,Basic
+VAR-005,EU Trekking Pro,EU,25,250,750,EN15194 Premium,Connected
+VAR-006,EU Cargo Pro,EU,25,1000,1200,EN15194 Premium,Fleet
+VAR-007,US Urban Standard,US,32,500,600,UL2849,Connected
+VAR-008,US Offroad Trail,US,45,750,900,UL2849 Premium,Connected
+VAR-009,Asia City Commuter,APAC,25,250,500,GB17761,Basic
+VAR-010,Asia Cargo Fleet,APAC,25,750,1000,GB17761,Fleet
+VAR-011,EU Speed Limited,EU,25,500,700,EN15194,Connected
+VAR-012,Global Performance,Global,45,1000,1200,UL2849 Premium,Fleet
+VAR-013,EU Light Urban,EU,25,250,350,EN15194,Basic
