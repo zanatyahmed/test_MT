@@ -1,3 +1,13 @@
 ﻿motorId,name,type,nominalPowerW,peakPowerW,torqueNm,efficiency,maxRpm,coolingType,weightKg,supplier,mountingPosition
 MOT-001,Bosch Active Line Plus,Mid Drive,250,500,65,0.89,3200,Air,3.1,Bosch,Mid
 MOT-002,Cargo TorqueDrive,Mid Drive,750,1200,120,0.91,4000,Air,4.6,Bafang,Mid
+MOT-003,Shimano E5000 Urban,Mid Drive,250,500,60,0.88,3000,Air,2.9,Shimano,Mid
+MOT-004,Bosch Performance Line CX,Mid Drive,250,850,85,0.92,4500,Air,2.9,Bosch,Mid
+MOT-005,Bafang Ultra M620,Mid Drive,1000,1500,160,0.93,4500,Air,5.3,Bafang,Mid
+MOT-006,Yamaha PWseries SE,Mid Drive,250,600,70,0.90,3500,Air,3.5,Yamaha,Mid
+MOT-007,Brose Drive S Mag,Mid Drive,250,700,90,0.94,4200,Air,3.4,Brose,Mid
+MOT-008,Continental E-Drive Sport,Mid Drive,250,750,85,0.91,4000,Air,3.8,Continental,Mid
+MOT-009,Shimano EP8 Trail,Mid Drive,250,800,85,0.93,5000,Air,2.6,Shimano,Mid
+MOT-010,Bosch Cargo Line Speed,Mid Drive,250,400,85,0.90,3400,Air,3.2,Bosch,Mid
+MOT-011,Bafang H700 Hub Motor,Hub Drive,500,750,80,0.88,3000,Air,4.2,Bafang,Rear
+MOT-012,QS Motor 205 50H V3,Hub Drive,1500,3000,180,0.94,3800,Air,7.5,QS Motor,Rear
