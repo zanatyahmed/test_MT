@@ -2,3 +2,13 @@
 SW-001,Motor Control Firmware,C,2.3.1,GitLab/MCURepo,Embedded Team,FreeRTOS,STM32,ASIL-B,false,High
 SW-002,eBike Mobile App,Kotlin,1.4.0,GitHub/eBikeApp,Mobile Team,Android,Mobile,None,false,Medium
 SW-003,Diagnostics Service,Python,0.9.2,GitHub/DiagService,Backend Team,Linux,Cloud,None,false,High
+SW-004,Battery Management Firmware,C,3.1.0,GitLab/BMSRepo,Embedded Team,FreeRTOS,ARM Cortex-M,ASIL-C,false,High
+SW-005,Bluetooth Communication Stack,C++,2.0.5,GitHub/BLEStack,Connectivity Team,RTOS,NRF52,None,false,High
+SW-006,Display HMI Software,C++,1.8.2,GitLab/HMIRepo,HMI Team,Embedded Linux,Display ECU,None,false,Medium
+SW-007,OTA Update Service,Python,1.2.0,GitHub/OTAService,Cloud Team,Linux,Cloud,None,false,Critical
+SW-008,Brake Control Firmware,C,2.5.4,GitLab/BrakeRepo,Safety Team,FreeRTOS,STM32,ASIL-D,false,High
+SW-009,GPS Tracking Service,Go,1.1.3,GitHub/GPSService,Backend Team,Linux,Cloud,None,false,Medium
+SW-010,Sensor Fusion Algorithm,C++,2.3.0,GitHub/SensorFusion,AI Team,Linux,Edge ECU,ASIL-B,false,High
+SW-011,Motor Thermal Protection Logic,C,1.4.1,GitLab/ThermalRepo,Embedded Team,FreeRTOS,MCU,ASIL-C,false,High
+SW-012,Security Encryption Module,Rust,0.8.0,GitHub/SecurityCore,Security Team,Linux,Cloud,None,false,Critical
+SW-013,Telemetry Data Aggregator,Python,1.0.6,GitHub/Telemetry,Data Team,Linux,Cloud,None,false,Medium
