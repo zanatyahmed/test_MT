@@ -2,3 +2,13 @@
 MNT-001,Brake Inspection,1000,6,Inspect brake pads and discs,Technician,30,false
 MNT-002,Battery Health Check,5000,12,Perform battery SOH analysis,Electrical Technician,45,true
 MNT-003,Firmware Update,0,3,Update ECU firmware,Software Technician,20,true
+MNT-004,Chain Lubrication,500,1,Lubricate drivetrain chain,Technician,15,false
+MNT-005,Torque Sensor Calibration,3000,6,Calibrate torque sensor accuracy,Electrical Technician,40,true
+MNT-006,Tire Pressure Check,1000,1,Check and adjust tire pressure,Technician,10,false
+MNT-007,Motor Bearing Inspection,4000,12,Inspect motor bearings for wear,Mechanical Technician,60,true
+MNT-008,BMS Diagnostic Scan,6000,12,Run battery management diagnostics,Electrical Technician,50,true
+MNT-009,Display System Check,2000,6,Verify HMI display functionality,Software Technician,25,false
+MNT-010,Brake Fluid Replacement,8000,24,Replace hydraulic brake fluid,Technician,70,true
+MNT-011,Fastener Torque Check,3000,6,Check all critical fasteners,Mechanical Technician,35,true
+MNT-012,Connector Cleaning Service,5000,12,Clean electrical connectors,Electrical Technician,40,true
+MNT-013,Wheel Alignment Check,7000,12,Check and adjust wheel alignment,Mechanical Technician,55,true
