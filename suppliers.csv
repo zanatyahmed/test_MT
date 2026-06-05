@@ -2,3 +2,13 @@
 SUP-001,LG Energy Solution,South Korea,A,true,45,Kim Lee,true,true,Low
 SUP-002,Bosch eBike Systems,Germany,A,true,30,Thomas Muller,true,true,Low
 SUP-003,Bafang,China,B,true,60,Li Wei,false,true,Medium
+SUP-004,Panasonic Energy,Japan,A,true,50,Kenji Sato,true,true,Low
+SUP-005,Samsung SDI,South Korea,A,true,55,Joon Park,true,true,Low
+SUP-006,Shimano Components,Japan,A,true,40,Yuki Tanaka,true,true,Low
+SUP-007,Continental AG,Germany,A,true,35,Anna Schmidt,true,true,Low
+SUP-008,Yamaha Motor Co.,Japan,A,true,50,Daichi Nakamura,false,true,Low
+SUP-009,Brose Fahrzeugteile,Germany,A,true,45,Michael Weber,true,true,Low
+SUP-010,Nidec Corporation,Japan,B,true,65,Hiroshi Yamamoto,false,true,Medium
+SUP-011,CATL,China,A,true,60,Wang Jun,true,true,Medium
+SUP-012,Infineon Technologies,Germany,A,true,30,Sarah Klein,true,true,Low
+SUP-013,TQ-Systems,Germany,B,true,40,Johannes Bauer,false,true,Medium
