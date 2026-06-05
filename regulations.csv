@@ -2,3 +2,13 @@
 REG-001,EN15194,EU,2017,Electric Bicycle,2017-01-01,true,CEN
 REG-002,IEC62133,Global,2017,Battery Safety,2017-02-01,true,IEC
 REG-003,UN38.3,Global,2023,Battery Transport,2023-01-01,true,UN
+REG-004,ISO13849-1,Global,2015,Machine Safety,2015-12-01,true,ISO
+REG-005,ISO26262,Global,2018,Functional Safety,2018-11-01,true,ISO
+REG-006,EN50604-1,EU,2016,Light Electric Vehicle Battery Safety,2016-06-01,true,CENELEC
+REG-007,CE EMC Directive 2014/30/EU,EU,2014,Electromagnetic Compatibility,2016-04-20,true,European Commission
+REG-008,RoHS Directive 2011/65/EU,EU,2011,Hazardous Substances Restriction,2019-07-22,true,European Commission
+REG-009,REACH Regulation EC 1907/2006,EU,2006,Chemical Safety,2007-06-01,true,ECHA
+REG-010,UL 2849,North America,2020,Electric Bicycle Electrical Systems,2020-09-01,true,UL
+REG-011,UL 2271,North America,2019,Light Electric Vehicle Battery Safety,2019-05-01,true,UL
+REG-012,GB 17761,China,2018,Electric Bicycle Safety Standard,2019-04-15,true,Standardization Administration of China
+REG-013,JIS D 9115,Japan,2019,Electric Bicycle Safety,2019-10-01,true,JISC
