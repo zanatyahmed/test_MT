@@ -2,3 +2,13 @@
 HAZ-001,Battery Thermal Runaway,High,Medium,Difficult,ASIL-C,Open,true
 HAZ-002,Unexpected Motor Activation,Critical,Medium,Difficult,ASIL-D,Mitigated,true
 HAZ-003,Brake Failure,Critical,Low,Difficult,ASIL-D,Open,true
+HAZ-004,Throttle Stuck in Full Power,Critical,Medium,Difficult,ASIL-D,Open,true
+HAZ-005,Loss of Power Assist During Traffic,High,High,Moderate,ASIL-C,Open,true
+HAZ-006,Pedal Sensor Signal Freeze,High,Medium,Difficult,ASIL-C,Mitigated,true
+HAZ-007,Brake Light Failure at Night,Medium,High,Moderate,ASIL-B,Open,true
+HAZ-008,Overvoltage Charging Event,High,Low,Difficult,ASIL-C,Mitigated,true
+HAZ-009,Motor Run-on After Brake Activation,Critical,Medium,Difficult,ASIL-D,Open,true
+HAZ-010,Wheel Speed Signal Loss,High,Medium,Moderate,ASIL-C,Open,true
+HAZ-011,Battery Cell Venting Gas Release,High,Low,Difficult,ASIL-C,Mitigated,true
+HAZ-012,Display Shows Incorrect Speed,Medium,High,Easily,ASIL-B,Open,false
+HAZ-013,Unexpected Regenerative Braking Activation,High,Medium,Difficult,ASIL-C,Open,true
