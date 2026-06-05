@@ -1,3 +1,14 @@
 ﻿issueId,description,severity,reportedDate,market,mileageKm,status,rootCause,warrantyClaim
 ISS-001,Motor shutdown during hill climb,High,2026-03-12,EU,3200,Investigating,Controller Overheat,true
 ISS-002,Display reboot issue,Medium,2026-03-15,EU,1200,Open,Software Bug,true
+ISS-003,Battery range drop in cold weather,Medium,2026-03-18,EU,5400,Open,Cell Performance Degradation,false
+ISS-004,Brake noise under wet conditions,Low,2026-03-20,EU,2100,Closed,Pad Contamination,false
+ISS-005,Torque assist lag,High,2026-03-22,EU,3800,Investigating,Sensor Calibration Drift,true
+ISS-006,Charging interruption mid-cycle,High,2026-03-25,EU,1500,Open,Connector Contact Resistance,true
+ISS-007,Unresponsive power button,Medium,2026-03-27,EU,900,Closed,Switch Wear,false
+ISS-008,Frame creaking noise,Low,2026-03-28,EU,6100,Open,Joint Stress,false
+ISS-009,GPS tracking intermittent,Medium,2026-04-01,EU,2400,Investigating,Antennas Signal Loss,true
+ISS-010,Motor vibration at high speed,High,2026-04-03,EU,4700,Open,Imbalance in Rotor Assembly,true
+ISS-011,Display brightness flicker,Low,2026-04-05,EU,1300,Closed,Power Regulation Instability,false
+ISS-012,Battery not charging to full capacity,High,2026-04-07,EU,5200,Investigating,BMS Calibration Issue,true
+ISS-013,Assist mode switching delay,Medium,2026-04-09,EU,3100,Open,Firmware Latency,true
