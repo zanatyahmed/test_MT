@@ -1,3 +1,14 @@
 ﻿goalId,description,asil,owner,verificationMethod,status
 SG-001,Prevent uncontrolled motor acceleration,ASIL-D,HARA Team,Road Test,Approved
 SG-002,Prevent battery thermal runaway,ASIL-C,Electrical Safety Team,Environmental Test,Approved
+SG-003,Ensure brake system maintains minimum stopping power,ASIL-D,Brake Safety Team,Brake Dynamometer Test,Approved
+SG-004,Prevent unintended vehicle start,ASIL-D,System Safety Team,Functional Test,Approved
+SG-005,Maintain torque assist within safe limits,ASIL-C,Powertrain Safety Team,Track Test,Approved
+SG-006,Prevent overcharging of battery cells,ASIL-C,Battery Safety Team,Lab Simulation,Approved
+SG-007,Ensure correct speed display to rider,ASIL-B,HMI Safety Team,Validation Test,Approved
+SG-008,Prevent loss of braking signal communication,ASIL-D,Vehicle Safety Team,CAN Fault Injection Test,Approved
+SG-009,Ensure stable motor shutdown on fault detection,ASIL-C,Control Systems Team,Fault Injection Test,Approved
+SG-010,Prevent overheating of motor system,ASIL-C,Thermal Safety Team,Environmental Chamber Test,Approved
+SG-011,Ensure integrity of sensor data signals,ASIL-C,Sensor Safety Team,Signal Validation Test,Approved
+SG-012,Prevent unsafe firmware execution,ASIL-D,Software Safety Team,Static Code Analysis,Approved
+SG-013,Ensure safe recovery after power loss,ASIL-C,System Integration Team,System Restart Test,Approved
