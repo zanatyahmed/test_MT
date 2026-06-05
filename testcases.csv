@@ -2,3 +2,13 @@
 TEST-001,Speed Cutoff Verification,Road Test,Passed,Semi-Automated,Outdoor Track,Motor disabled above 25 kmh,Validation Team,2026-01-10,Pass
 TEST-002,Battery Thermal Stress Test,Environmental Test,Passed,Automated,Climate Chamber,No thermal runaway at 60C,Safety Lab,2026-01-15,Pass
 TEST-003,Brake Response Validation,HIL,Running,Automated,HIL Bench,Response under 20 ms,Embedded Team,2026-01-17,Pending
+TEST-004,BMS Communication Fault Injection,HIL,Passed,Automated,HIL Bench,No unsafe state on CAN loss,Embedded Team,2026-01-20,Pass
+TEST-005,Motor Overcurrent Protection Test,HIL,Passed,Automated,Power Bench,Current limited under fault,Safety Team,2026-01-22,Pass
+TEST-006,Battery SOC Accuracy Validation,Simulation,Passed,Semi-Automated,Simulation Lab,SOC error < 3%,Battery Team,2026-01-25,Pass
+TEST-007,Water Ingress Resistance Test,Environmental Test,Passed,Manual,Water Spray Chamber,No failure under IP67 exposure,Mechanical Team,2026-01-28,Pass
+TEST-008,Bluetooth Connectivity Stability Test,Field Test,Running,Semi-Automated,Urban Route,Connection stable for 10 min,Connectivity Team,2026-02-01,Pending
+TEST-009,Display HMI Functionality Test,System Test,Passed,Automated,Lab Bench,All UI functions responsive,HMI Team,2026-02-03,Pass
+TEST-010,Regenerative Braking Validation,Road Test,Passed,Semi-Automated,Test Track,Energy recovery within spec,Powertrain Team,2026-02-05,Pass
+TEST-011,Motor Thermal Derating Test,Environmental Test,Running,Automated,Thermal Chamber,Power reduction at 90C,Thermal Team,2026-02-07,Pending
+TEST-012,Charging System Fault Handling,HIL,Passed,Automated,HIL Bench,Safe shutdown on overvoltage,Electrical Team,2026-02-10,Pass
+TEST-013,Sensor Fusion Accuracy Test,Simulation,Passed,Automated,Simulation Lab,Position error < 2%,AI Team,2026-02-12,Pass
