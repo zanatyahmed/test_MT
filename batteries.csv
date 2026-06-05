@@ -1,3 +1,21 @@
 ﻿batteryId,name,chemistry,voltage,capacityAh,energyWh,cycleLife,maxChargeCurrent,maxDischargeCurrent,ipRating,weightKg,supplier,cellFormat,coolingType
 BAT-001,UrbanPack500,NMC,48,10.4,500,1000,5,30,IP67,3.2,LG,21700,Passive Air
 BAT-002,CargoPack750,NMC,48,15.6,750,1200,7,45,IP67,4.8,Panasonic,21700,Passive Air
+BAT-003,CityRide400,NMC,36,11.1,400,900,4,25,IP65,2.8,Samsung,18650,Passive Air
+BAT-004,TouringPack625,NMC,48,13.0,625,1000,6,35,IP67,3.9,LG,21700,Passive Air
+BAT-005,MountainPro720,NMC,48,15.0,720,1200,8,50,IP67,4.5,Panasonic,21700,Passive Air
+BAT-006,Compact360,NMC,36,10.0,360,800,4,20,IP65,2.5,Samsung,18650,Passive Air
+BAT-007,LongRange840,NMC,48,17.5,840,1300,8,50,IP67,5.1,LG,21700,Passive Air
+BAT-008,UrbanLite300,NMC,36,8.3,300,700,3,18,IP54,2.1,EVE,18650,Passive Air
+BAT-009,Adventure900,NMC,48,18.8,900,1400,9,55,IP67,5.5,Panasonic,21700,Passive Air
+BAT-010,CityPlus540,NMC,48,11.3,540,1000,5,30,IP65,3.4,Samsung,21700,Passive Air
+BAT-011,Trekking700,NMC,48,14.6,700,1100,6,40,IP67,4.3,LG,21700,Passive Air
+BAT-012,CargoMax1000,NMC,48,20.8,1000,1500,10,60,IP67,6.0,Panasonic,21700,Passive Air
+BAT-013,Commuter450,NMC,36,12.5,450,900,5,25,IP65,3.0,Samsung,18650,Passive Air
+BAT-014,Performance800,NMC,48,16.7,800,1300,8,50,IP67,4.9,LG,21700,Passive Air
+BAT-015,TrailMaster650,NMC,48,13.5,650,1100,7,40,IP67,4.0,Panasonic,21700,Passive Air
+BAT-016,EcoRide250,LFP,36,7.0,250,2500,3,15,IP54,2.7,CATL,32700,Passive Air
+BAT-017,Endurance960,NMC,48,20.0,960,1400,10,60,IP67,5.8,Samsung,21700,Passive Air
+BAT-018,UrbanFlex500,NMC,36,13.9,500,1000,5,30,IP65,3.3,LG,21700,Passive Air
+BAT-019,eMTB850,NMC,48,17.7,850,1300,8,55,IP67,5.2,Panasonic,21700,Passive Air
+BAT-020,CompactPlus400,LFP,36,11.1,400,2200,4,20,IP65,3.5,CATL,32700,Passive Air
