@@ -2,3 +2,13 @@
 FM-001,Temperature Sensor Drift,4,3,8,96,Sensor Aging,Redundant Sensors
 FM-002,Connector Corrosion,5,4,7,140,Moisture Exposure,Sealed Connector
 FM-003,Overcurrent Event,3,2,10,60,Short Circuit,Current Limiting
+FM-004,Battery Cell Imbalance,5,3,9,135,Uneven Cell Aging,Balancing Circuit Improvement
+FM-005,Motor Bearing Wear,4,4,8,128,Mechanical Stress,Improved Lubrication
+FM-006,BMS Firmware Crash,2,2,10,40,Software Bug,Robust Watchdog Timer
+FM-007,Torque Sensor Offset Drift,3,3,7,63,Calibration Drift,Periodic Auto-Calibration
+FM-008,Water Ingress into Motor Housing,4,2,10,80,Seal Degradation,Enhanced IP Sealing Design
+FM-009,DC-DC Converter Overheating,3,3,9,81,Thermal Insufficient Design,Heat Sink Upgrade
+FM-010,Brake Sensor Signal Noise,4,4,8,128,EMI Interference,Shielded Cabling
+FM-011,Charging Port Loosening,5,5,7,175,Mechanical Vibration,Reinforced Mount Design
+FM-012,CAN Communication Latency,3,3,8,72,Bus Load Overutilization,Message Optimization
+FM-013,Throttle Return Delay,2,2,9,36,Spring Fatigue,Stronger Return Spring
