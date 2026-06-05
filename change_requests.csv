@@ -1,3 +1,11 @@
 ﻿crId,title,reason,priority,status,requestedBy,createdDate,targetRelease,affectedSystems
 CR-001,Increase Battery Capacity,Market Demand,High,Analysis,Product Management,2026-01-10,2.0,Battery System
 CR-002,Improve Brake Cooling,Field Failures,Critical,Approved,Safety Engineering,2026-01-15,2.1,Braking System
+CR-003,Optimize Motor Efficiency,Energy Consumption,High,In Progress,Drivetrain Engineering,2026-01-20,2.2,Motor System
+CR-004,Redesign Frame Weld Joints,Structural Fatigue,Critical,Approved,Mechanical Engineering,2026-01-22,2.1,Frame
+CR-005,Update Display Firmware,User Experience,Medium,Planned,Software Team,2026-01-25,2.3,HMI System
+CR-006,Improve Waterproofing Seals,Ingress Protection,High,In Progress,Quality Assurance,2026-01-28,2.2,Chassis
+CR-007,Reduce Battery Weight,Cost Optimization,Medium,Analysis,Product Management,2026-02-01,2.4,Battery System
+CR-008,Enhance Torque Sensor Accuracy,Ride Quality,High,Approved,Sensor Engineering,2026-02-03,2.3,Sensor System
+CR-009,Upgrade Lighting System Visibility,Safety Compliance,Critical,In Progress,Electrical Engineering,2026-02-05,2.2,Lighting System
+CR-010,Improve Charging Time,Market Competitiveness,High,Analysis,Power Electronics Team,2026-02-07,2.4,Charging System
