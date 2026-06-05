@@ -3,3 +3,12 @@ SUB-001,SYS-001,Battery Management System,Electronic,true,Bosch,true,true,CAN
 SUB-002,SYS-001,Battery Pack,Electrical,true,LG,false,false,None
 SUB-003,SYS-002,Motor Controller,Electronic,true,Continental,true,true,CAN
 SUB-004,SYS-003,Bluetooth Module,Communication,false,Quectel,true,true,BLE
+SUB-005,SYS-002,Motor Unit,Electromechanical,true,Bosch,false,true,CAN
+SUB-006,SYS-001,Charging Interface,Electrical,true,Panasonic,false,true,CAN
+SUB-007,SYS-004,Display HMI Unit,Electronic,false,Brose,true,true,SPI
+SUB-008,SYS-003,GPS Module,Communication,false,Quectel,true,true,UART
+SUB-009,SYS-002,Torque Sensor System,Sensor,true,Bosch,true,true,CAN
+SUB-010,SYS-005,Brake Control Unit,Safety,true,Continental,true,true,CAN
+SUB-011,SYS-005,Hydraulic Brake System,Mechanical,true,Shimano,false,true,None
+SUB-012,SYS-004,Lighting Control Module,Electronic,true,Infineon,true,true,CAN
+SUB-013,SYS-001,Battery Thermal Management,Thermal,true,LG,false,true,CAN
