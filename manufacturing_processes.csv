@@ -2,3 +2,13 @@
 PROC-001,Frame Welding,Plant Berlin,12,Fully Automated,true,true,4.5
 PROC-002,Battery Assembly,Plant Munich,18,Semi Automated,true,true,6.2
 PROC-003,PCB Soldering,Plant Stuttgart,7,Fully Automated,true,true,2.1
+PROC-004,Motor Stator Winding,Plant Nuremberg,14,Fully Automated,true,true,5.8
+PROC-005,Battery Cell Sorting,Plant Dresden,10,Semi Automated,true,true,3.9
+PROC-006,Final Vehicle Assembly,Plant Leipzig,25,Semi Automated,true,true,8.5
+PROC-007,Brake System Assembly,Plant Munich,16,Semi Automated,true,true,4.7
+PROC-008,Paint Coating Application,Plant Cologne,20,Fully Automated,true,false,7.3
+PROC-009,Wheel Mounting,Plant Berlin,9,Fully Automated,true,true,2.6
+PROC-010,Motor Housing Machining,Plant Stuttgart,11,Fully Automated,true,true,6.0
+PROC-011,End-of-Line Quality Inspection,Plant Leipzig,8,Semi Automated,true,true,2.0
+PROC-012,ECU Flash Programming,Plant Munich,6,Fully Automated,true,true,1.8
+PROC-013,Cable Harness Assembly,Plant Dresden,13,Semi Automated,true,true,3.4
