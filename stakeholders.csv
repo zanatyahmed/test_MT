@@ -2,3 +2,13 @@
 STK-001,Product Manager,Decision Maker,eBike Mobility GmbH,Germany,Product,High
 STK-002,Regulatory Authority,Compliance Authority,TUV,Germany,Compliance,Critical
 STK-003,Service Technician,Maintenance,eBike Service Center,Egypt,After Sales,Medium
+STK-004,System Engineer,Technical Owner,eBike Mobility GmbH,Germany,Engineering,High
+STK-005,Quality Manager,Quality Assurance,eBike Mobility GmbH,Germany,Quality,High
+STK-006,End Customer,Rider,Public User,EU,Market,High
+STK-007,Safety Engineer,Safety Analysis,eBike Mobility GmbH,Germany,Safety,Critical
+STK-008,Manufacturing Engineer,Production Owner,Plant Munich,Germany,Manufacturing,High
+STK-009,Supplier Account Manager,Supplier Coordination,Bosch eBike Systems,Germany,Supplier Relations,Medium
+STK-010,Regulatory Consultant,Compliance Advisory,Independent,Germany,Compliance,High
+STK-011,Software Lead,Software Architecture,eBike Mobility GmbH,Germany,Software,High
+STK-012,Test Engineer,Validation,eBike Mobility GmbH,Germany,Testing,High
+STK-013,After Sales Manager,Customer Support,eBike Mobility GmbH,Germany,Service,Medium
