@@ -3,3 +3,12 @@ SYS-001,Battery System,Energy storage and power delivery,High,Electrical Team,Re
 SYS-002,Powertrain,System responsible for propulsion,High,Vehicle Team,Released,true,Mechanical,2.1
 SYS-003,Connectivity System,Wireless communication services,Medium,Software Team,Development,false,Software,0.9
 SYS-004,Braking System,Vehicle braking and safety control,Critical,Safety Team,Released,true,Mechanical,1.7
+SYS-005,Motor Control System,Controls torque and motor operation,Critical,Powertrain Team,Released,true,Electrical,2.3
+SYS-006,Sensor System,Collects vehicle state data,High,Sensor Team,Released,true,Electronics,1.5
+SYS-007,HMI System,User interface and display system,Medium,UX Team,Released,false,Software,1.1
+SYS-008,Thermal Management System,Controls system temperature,High,Thermal Team,Development,true,Mechanical,1.0
+SYS-009,Charging System,Manages battery charging process,Critical,Electrical Team,Released,true,Electrical,1.4
+SYS-010,Diagnostic System,Monitors faults and system health,High,Software Team,Released,true,Software,1.3
+SYS-011,Lighting System,Controls front and rear lighting,Medium,Electrical Team,Released,false,Electrical,1.0
+SYS-012,Security System,Handles authentication and anti-theft,High,Cybersecurity Team,Development,true,Software,0.8
+SYS-013,Vehicle Control System,Coordinates all vehicle subsystems,Critical,Systems Engineering,Released,true,System,2.5
