@@ -2,3 +2,13 @@
 INT-001,CAN Vehicle Bus,CAN,500000,High,AES,false,5
 INT-002,Bluetooth LE,BLE,1000000,Medium,AES,true,20
 INT-003,UART Diagnostics,UART,115200,Low,None,false,2
+INT-004,Motor Control CAN FD,CAN-FD,2000000,Critical,AES,false,3
+INT-005,Battery Management CAN,CAN,500000,High,AES,false,6
+INT-006,GPS Module Interface,UART,9600,Medium,None,false,50
+INT-007,WiFi Telemetry Link,WiFi,54000000,High,TLS,true,30
+INT-008,Display HMI Bus,SPI,8000000,Medium,None,false,8
+INT-009,Brake System Communication,CAN,500000,Critical,AES,false,4
+INT-010,OTA Firmware Update Channel,BLE,1000000,Critical,AES,true,60
+INT-011,USB Service Port,USB,480000000,Medium,AES,false,10
+INT-012,Sensor Fusion Bus,CAN-FD,2000000,High,AES,false,5
+INT-013,Mobile App Sync Interface,BLE,1000000,Medium,AES,true,25
