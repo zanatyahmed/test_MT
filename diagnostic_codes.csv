@@ -2,3 +2,13 @@
 DTC-001,Motor Overtemperature,Powertrain,High,Inspect cooling,true
 DTC-002,Battery Communication Fault,Electrical,Critical,Check CAN wiring,true
 DTC-003,Torque Sensor Failure,Safety,Critical,Replace sensor,false
+DTC-004,BMS Overvoltage Detection,Battery,Critical,Inspect battery pack,false
+DTC-005,Motor Hall Sensor Signal Loss,Powertrain,High,Replace motor sensor,true
+DTC-006,CAN Bus Timeout Error,Electrical,High,Diagnose ECU network,true
+DTC-007,Brake System Pressure Fault,Safety,Critical,Inspect hydraulic system,false
+DTC-008,Inverter Overcurrent Detected,Powertrain,Critical,Check inverter and load,false
+DTC-009,Throttle Signal Out of Range,Control System,High,Calibrate throttle,true
+DTC-010,Battery Cell Imbalance Detected,Battery,High,Balance charge cycle,true
+DTC-011,Wheel Speed Sensor Failure,Safety,Medium,Replace speed sensor,true
+DTC-012,Firmware Integrity Check Failed,Software,Critical,Reflash ECU,false
+DTC-013,Motor Stuck Rotor Detected,Powertrain,Critical,Inspect drivetrain assembly,false
