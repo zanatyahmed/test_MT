@@ -2,3 +2,13 @@
 FUN-001,Assist Pedaling,Vehicle Control,Critical,Provides motor assistance,Torque Sensor,Torque Value,Motor Torque,20
 FUN-002,Battery Temperature Monitoring,Safety,Critical,Monitors battery thermal state,Temperature Sensor,Temperature,Protection Command,50
 FUN-003,Brake Detection,Safety,Critical,Detects braking activation,Brake Switch,Brake Signal,Motor Disable,10
+FUN-004,Speed Limiting Control,Vehicle Control,Critical,Ensures legal speed compliance,Speed Sensor,Vehicle Speed,Throttle Limitation,30
+FUN-005,Battery State of Charge Estimation,Energy Management,Critical,Estimates remaining battery energy,BMS Voltage/Current,Electrical Data,SOC Value,80
+FUN-006,Motor Overcurrent Protection,Safety,Critical,Prevents motor damage,Current Sensor,Current Measurement,Power Cutoff,15
+FUN-007,Walk Assist Mode,User Assistance,High,Provides low-speed walking support,Button Input,Assist Request,Low Torque Output,40
+FUN-008,Regenerative Braking Control,Energy Recovery,High,Recovers energy during braking,Brake Sensor,Brake Force,Recharge Current,60
+FUN-009,Display Status Update,User Interface,Medium,Updates rider information display,System Controller,System Data,Display Output,100
+FUN-010,Lighting Auto Control,Safety,High,Automatically controls lights,Lux Sensor,Ambient Light,Light ON/OFF Command,200
+FUN-011,Error Diagnostic Logging,Diagnostics,High,Records system faults,DTC Module,Fault Signals,Log Entry,120
+FUN-012,Motor Torque Vectoring,Vehicle Control,Critical,Optimizes torque delivery,Speed/Torque Sensors,Riding Conditions,Distributed Torque,25
+FUN-013,Connectivity Sync,Bluetooth,Medium,Syncs with mobile app,BLE Module,Connection Request,Data Sync,150
