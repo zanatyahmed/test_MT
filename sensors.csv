@@ -2,3 +2,13 @@
 SNS-001,Torque Sensor,Torque,Torque Nm,0,120,0.5,CAN,TDK,true
 SNS-002,Wheel Speed Sensor,Speed,Wheel RPM,0,5000,1.0,Digital,Bosch,true
 SNS-003,Battery Temp Sensor,Temperature,Celsius,-40,120,0.2,I2C,Texas Instruments,true
+SNS-004,Motor Current Sensor,Current,Amps,0,200,0.3,CAN,LEM,true
+SNS-005,Ambient Temperature Sensor,Temperature,Celsius,-40,85,0.5,I2C,Bosch,false
+SNS-006,Brake Pressure Sensor,Pressure,Bar,0,250,0.8,Analog,Continental,true
+SNS-007,Pedal Cadence Sensor,Speed,RPM,0,300,1.2,Digital,Magura,true
+SNS-008,Battery Voltage Sensor,Voltage,Volts,0,60,0.1,CAN,LG,true
+SNS-009,IMU Sensor Unit,Acceleration,Acceleration m/s²,-16,16,0.05,I2C,STMicroelectronics,true
+SNS-010,Motor Temperature Sensor,Temperature,Celsius,-40,150,0.3,I2C,Bosch,true
+SNS-011,Light Sensor,Illuminance,Lux,0,100000,1.5,I2C,Texas Instruments,false
+SNS-012,GPS Position Sensor,Location,Coordinates,-, -,2.0,UART,Quectel,false
+SNS-013,Humidity Sensor,Humidity,Relative %,0,100,1.0,I2C,Honeywell,false
