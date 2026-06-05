@@ -1,3 +1,13 @@
 ﻿productId,name,modelYear,category,targetMarket,maxSpeedKph,rangeKm,weightKg,batteryVoltage,motorPowerW,frameMaterial,suspensionType,brakeType,connectivityLevel,otaEnabled,gpsEnabled,launchDate,status,priceEUR,variantFamily
 EBIKE-001,Urban Commuter X1,2026,City eBike,EU,25,120,24.5,48,250,Aluminum,Front Suspension,Hydraulic Disc,Connected,true,true,2026-03-01,Development,3499,UrbanSeries
 EBIKE-002,Cargo Master C1,2026,Cargo eBike,EU,25,100,38.2,48,750,Aluminum,Rigid,Hydraulic Disc,Connected,true,true,2026-05-01,Prototype,5999,CargoSeries
+EBIKE-003,City Flow E2,2026,City eBike,EU,25,110,23.8,36,250,Carbon Fiber,Front Suspension,Hydraulic Disc,Connected,true,true,2026-02-15,Production,3899,UrbanSeries
+EBIKE-004,Trekking Explorer T3,2026,Trekking eBike,EU,25,140,26.5,48,250,Aluminum,Full Suspension,Hydraulic Disc,Connected,true,true,2026-04-10,Production,4299,TrekkingSeries
+EBIKE-005,Urban Lite S1,2026,City eBike,EU,25,90,21.9,36,250,Aluminum,Rigid,Mechanical Disc,Basic,true,false,2026-01-20,Production,2799,UrbanSeries
+EBIKE-006,Cargo Master C2 Pro,2026,Cargo eBike,EU,25,130,40.1,48,1000,Aluminum,Rear Suspension,Hydraulic Disc,Advanced,true,true,2026-06-01,Prototype,6999,CargoSeries
+EBIKE-007,Mountain Trail M1,2026,Mountain eBike,EU,25,100,25.2,48,750,Carbon Fiber,Full Suspension,Hydraulic Disc,Connected,true,true,2026-03-18,Production,4999,MTBSeries
+EBIKE-008,Urban Smart U3,2026,City eBike,EU,25,115,24.0,48,250,Aluminum,Front Suspension,Hydraulic Disc,Connected,true,true,2026-02-28,Production,3599,UrbanSeries
+EBIKE-009,Speed Commuter S2,2026,City eBike,EU,45,90,26.8,48,500,Aluminum,Front Suspension,Hydraulic Disc,Advanced,true,true,2026-05-20,Development,4599,SpeedSeries
+EBIKE-010,Trekking Adventure T4,2026,Trekking eBike,EU,25,160,27.5,48,250,Aluminum,Full Suspension,Hydraulic Disc,Advanced,true,true,2026-07-01,Prototype,4799,TrekkingSeries
+EBIKE-011,Cargo Heavy Lift C3,2026,Cargo eBike,EU,25,110,42.0,48,1000,Steel Alloy,Rigid,Hydraulic Disc,Advanced,true,true,2026-06-15,Prototype,7499,CargoSeries
+EBIKE-012,Urban Compact U4,2026,City eBike,EU,25,100,22.5,36,250,Aluminum,Rigid,Hydraulic Disc,Basic,false,false,2026-02-05,Production,2599,UrbanSeries
