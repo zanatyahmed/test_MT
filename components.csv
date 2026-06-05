@@ -2,3 +2,10 @@
 COMP-001,SUB-002,21700 Li-Ion Cell,LG-21700-50E,LG,NMC Lithium,0.068,4.5,Released,Plant-A,South Korea,true,true,true,2500
 COMP-002,SUB-003,Motor Inverter PCB,INV-X22,Continental,FR4,0.35,48.0,Prototype,Plant-B,Germany,false,true,true,10000
 COMP-003,SUB-004,BLE Antenna,BLE-ANT-09,Quectel,Copper,0.02,2.5,Released,Plant-C,China,true,false,false,12000
+COMP-004,SUB-002,21700 High Density Cell,SAM-21700-40T,Samsung,NMC Lithium,0.067,4.8,Released,Plant-A,South Korea,true,true,true,2600
+COMP-005,SUB-003,DC-DC Converter Module,DCX-500,Delta Electronics,Aluminum,0.42,35.0,Released,Plant-B,Taiwan,false,true,true,9000
+COMP-006,SUB-005,Torque Sensor Unit,TS-AX12,Bosch,Steel Alloy,0.18,22.0,Released,Plant-D,Germany,true,true,true,15000
+COMP-007,SUB-006,Brake Control ECU,BCE-900,Continental,FR4,0.31,55.0,Prototype,Plant-B,Germany,false,true,true,11000
+COMP-008,SUB-004,WiFi/BLE Combo Module,COMBO-WB3,Quectel,Silicon,0.015,6.5,Released,Plant-C,China,true,false,true,13000
+COMP-009,SUB-007,Aluminum Motor Housing,MTR-HSG-AL7,Nidec,Aluminum Alloy,1.25,18.0,Released,Plant-E,Japan,true,true,false,20000
+COMP-010,SUB-002,Prismatic Battery Cell,CATL-P52,Catl,LFP Lithium,0.520,12.0,Released,Plant-F,China,true,true,true,3000
